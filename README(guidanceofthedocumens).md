@@ -1,10 +1,11 @@
 There are four documents in this repository. 
 
-The first one is the answer of the first question.
+- The first one is the answer of the first question.
 
-The second second is python file that includes the amazon website automation test case. PyTest is the testing tool that I used. There are three cases first one is the checking source. The second one is testing whether the searching items loaded successfully. The third one is the quit and close.
-The user should change the directory of the document to run it. 
-The user should go preferences ---> python integrated tools -----> default test runner should be selected pytest and pytest package should be installed to gather test results.
+- The second second is python file that includes the amazon website automation test case. PyTest is the testing tool that I used. There are three cases first one is the checking source. The second one is testing whether the searching items loaded successfully. The third one is the quit and close.
+  The user should change the directory of the document to run it. 
+  The user should go preferences ---> python integrated tools -----> default test runner should be selected pytest and pytest package should be installed to gather   test results.
+  
 
 The third one is the postman collection. This document includes the endpoints from https://reqres.in/. Parameters added from website and, responses as I expected. Hovewer, some parameters should be changed and added because of the code quality. The parameters that I want to change added the excel document.
 
